@@ -3,7 +3,7 @@
 Desenvolvedora de Software | Back-end | Junior<br/>
 
 🏠 Cuiabá / Mato Grosso <br/>
-✉️ marinabotton@gmail.com
+✉️ marinabottons@gmail.com
 
 Meu nome é Marina, **RESUMO**.<br />
 
@@ -29,52 +29,52 @@ Concluído em Dezembro de 2013.
 * (Jun/2019 - Atualmente) <br/>
 ***Freelance** - 
 Consultora de Marketing e Mídias.
-  * <br />
-  * <br />
-  * <br />
-  * <br />
-  * <br />
-  * <br />
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
 
 * (Jan/2022 - Jun/2022) <br/>
 ***Solar – Coca Cola** - 
 Analista de Marketing .
-  * <br />
-  * <br />
-  * <br />
-  * <br />
+  * 
+  * 
+  * 
+  * 
 
 * (Mar/2018 - Jun/2019) <br/>
 ***Tua Rosa** - 
 Sócia-Proprietária.
-  * <br />
-  * <br />
-  * <br />
+  * 
+  * 
+  * 
 
 * (Jan/2018 - Jul/2019) <br />
 ***OZ Language School** - 
 Professora de Inglês .
-  * <br />
-  * <br />
-  * <br />
+  * 
+  * 
+  * 
 
 * (Abr/2017 - Fev/2018) <br />
 ***Secretaria Estadual de Trabalho e Assistência Social | SETAS** - 
 Assistente Técnico.
-  * <br />
-  * <br />
+  * 
+  * 
 
 * (Jan/2018 - Jul/2019) <br />
 ***Assembleia Legislativa de Mato Grosso** - 
 Assessora Parlamentar.
-  * <br />
-  * <br />
+  * 
+  * 
 
 * (Fev/2018 - Jul/2016) <br />
 ***Tribunal Regional do Trabalho da 23ª Região** - 
 Estágio.
-  * <br />
-  * <br />
+  * 
+  *   
   
 ## Cursos Realizados:
 ### Idiomas
@@ -86,11 +86,12 @@ FISK | Jaciara - MT <br />
 
 * Intercâmbio<br />
 ILAC – International Language Academy | Toronto-ON (Canadá)<br />
-Dezembro de 2016 à Janeiro de 2016 (3-week course)<br />
+Dez/2015 à Jan/2016 (3-week course)<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
 
 * Inglês para Dev | 76h<br />
-Alura | Março de 2023<br />
+Alura | Online<br />
+Março de 2023<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
  ### Programação
 * Introdução ao Desenvolvimento de Softwa (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
