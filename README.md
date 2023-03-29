@@ -12,7 +12,7 @@ Curiosa, em transição de carreira e em busca constante por conhecimento, decid
 Análise e Desenvolvimento de Sistemas - FIAP <br/>
 Conclusão para Dezembro de 2024.
 
-[_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)<br />
+[_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
 
 Marketing - Centro Universitário Belas Artes de São Paulo <br/>
 Conclusão para Junho de 2023.
