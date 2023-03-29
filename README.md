@@ -9,18 +9,18 @@ Curiosa, em transição de carreira e em busca constante por conhecimento, decid
 
 ## Formação 
 
-Análise e Desenvolvimento de Sistemas - FIAP <br/>
+* Análise e Desenvolvimento de Sistemas - FIAP <br/>
 Conclusão para Dezembro de 2024.
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
 
-Marketing - Centro Universitário Belas Artes de São Paulo <br/>
+* Marketing - Centro Universitário Belas Artes de São Paulo <br/>
 Conclusão para Junho de 2023.
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
 
 
-Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
+* Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
 Concluído em Dezembro de 2013.
 
 ## Solf Skills
@@ -42,54 +42,62 @@ Concluído em Dezembro de 2013.
 ## Experência Profissional
 
 * (Jun/2019 - Atualmente) <br/>
-***Freelance** - 
+**Freelance** - 
 Consultora de Marketing e Mídias.
-  * <br/>
-  * <br/>
-  * <br/>
-  * <br/>
-  * <br/>
-  * <br/>
+  * Comunicação para interagir com clientes e entender suas necessidades; <br/>
+  * Desenvolvimento de ideias criativas para campanhas; <br/>
+  * Gerenciamento de projetos, incluindo definição de objetivos, prazos e recursos; <br/>
+  * Redação para criação de textos persuasivos e engajadores em diferentes formatos; <br/>
+  * Monitoramento e análise de métricas para avaliar resultados. <br/>
 
 * (Jan/2022 - Jun/2022) <br/>
 ***Solar – Coca Cola** - 
 Analista de Marketing .
-  * <br/>
-  * <br/>
-  * <br/>
-  * <br/>
+  * Gestão de agências de publicidade e fornecedores;<br/>
+  * Gerenciamento de projetos e prazos, garantindo que as campanhas e eventos sejam entregues dentro do prazo e orçamento;<br/>
+  * Comunicação de ideias e conceitos de maneira precisa e convincente, tanto oralmente quanto por escrito;<br/>
+  * Conhecimento em SAP para gerenciamento de processos de pagamento a fornecedores e solicitação de materiais para campanhas.<br/>
 
 * (Mar/2018 - Jun/2019) <br/>
-***Tua Rosa** - 
+**Tua Rosa** - 
 Sócia-Proprietária.
-  * <br/>
-  * <br/>
-  * <br/>
-
+  * Administração de lojas virtuais, incluindo gestão de estoque, pedidos e entregas;<br/>
+  * Planejamento financeiro e estratégico, garantindo a eficiência da operação e maximização dos lucros;<br/>
+  * Gerenciamento de projetos, incluindo habilidades em definir metas e prazos e monitorar o progresso;<br/>
+  * Análise de dados e métricas para avaliação de desempenho da loja virtual e tomada de decisões estratégicas.<br/>
+  
 * (Jan/2018 - Jul/2019) <br />
-***OZ Language School** - 
+**OZ Language School** - 
 Professora de Inglês .
-  * <br/>
-  * <br/>
-  * <br/>
+  * Criatividade para planejar aulas e atividades didáticas para manter os alunos engajados e motivados;<br/>
+  * Adaptar o ensino de acordo com o conhecimento e as necessidades individuais do aluno;<br/>
+  * Comunicação oral e escrita para explicar conceitos e tirar dúvidas;<br/>
+  * Gerenciamento de tempo e organização, garantindo que o conteúdo programático seja cumprido dentro do prazo estabelecido;<br/>
+  * Dar feedback construtivo e encorajador aos alunos para incentivá-los a alcançar seus objetivos educacionais.<br/>
 
 * (Abr/2017 - Fev/2018) <br />
-***Secretaria Estadual de Trabalho e Assistência Social | SETAS** - 
+**Secretaria Estadual de Trabalho e Assistência Social | SETAS** - 
 Assistente Técnico.
-  * <br/>
-  * <br/>
+  * Pesquisa e coleta de informações, para auxiliar na tomada de decisões de gestão;<br/>
+  * Elaboração de ofícios e comunicados internos com precisão e clareza;<br/>
+  * Gerenciamento de arquivos, documentação e fluxo de informações;<br/>
+  * Comunicação oral e escrita para interagir com colegas de trabalho, superiores e outros departamentos.<br/>
 
 * (Jan/2018 - Jul/2019) <br />
-***Assembleia Legislativa de Mato Grosso** - 
+**Assembleia Legislativa de Mato Grosso** - 
 Assessora Parlamentar.
-  * <br/>
-  * <br/>
+  * Redação técnica de ofícios, requerimentos e outros documentos;<br/>
+  * Organização e gerenciamento de informações e documentação;<br/>
+  * Comunicação oral e escrita para interagir com parlamentares, membros do gabinete e outros setores governamentais;<br/>
+  * Trabalhar sob pressão e em situações de prazos apertados.<br/>
 
 * (Fev/2018 - Jul/2016) <br />
-***Tribunal Regional do Trabalho da 23ª Região** - 
+**Tribunal Regional do Trabalho da 23ª Região** - 
 Estágio.
-  * <br/>
-  * <br/>
+  * Pesquisa e análise de leis e regulamentações relacionadas a processos<br/>
+  * Preparar expedientes e petições com precisão e seguindo as normas e procedimentos legais<br/>
+  * Comunicação oral e escrita para interagir com juízes, advogados e outros profissionais do meio jurídico;<br/>
+  * Gerenciamento de tempo e organização, garantindo que as tarefas sejam cumpridas dentro dos prazos estabelecidos.<br/>
   
 ## Cursos Realizados:
 ### Idiomas
