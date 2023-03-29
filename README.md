@@ -197,20 +197,20 @@ FISK | Jaciara - MT <br />
 
 ## Projetos:
 ### Python
-* [RestaUm-UTFPR](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
-* [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
-* [RestaUm-Estilizado](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
+* [Projeto-1](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
+* [Projeto-2](https://github.com/willianayres/projects/tree/main/resta-um-console)
+* [Projeto-3](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
 
 ### JavaScript, HTML e CSS
-* [Snake](https://github.com/willianayres/projects/tree/main/snake)
-* [Shift AW](https://www.shiftaw.com.br)
-* [Olímpico Soldas](https://olimpicosoldas.com.br)
-* [Metale Metais](https://metalemetais.com.br)<br />
+* [Projeto-1](https://github.com/willianayres/projects/tree/main/snake)
+* [Projeto-2](https://www.shiftaw.com.br)
+* [Projeto-3](https://olimpicosoldas.com.br)
+* [Projeto-4](https://metalemetais.com.br)<br />
 
 
 ## Contato:
 *  [Linkedin](https://www.linkedin.com/in/marinabotton/)<br />
 
 
-## Me ajude!
+### Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
