@@ -79,9 +79,9 @@ Estágio.
 ## Cursos Realizados:
 ### Idiomas
 Inglês:
-* Curso de Idiomas <br /> 
-FISK | Jaciara - MT <br />
-2002 - 2013<br />
+* Inglês para Dev | 76h<br />
+Alura | Online<br />
+Março de 2023<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
 
 * Intercâmbio<br />
@@ -89,9 +89,9 @@ ILAC – International Language Academy | Toronto-ON (Canadá)<br />
 Dez/2015 à Jan/2016 (3-week course)<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
 
-* Inglês para Dev | 76h<br />
-Alura | Online<br />
-Março de 2023<br />
+* Curso de Idiomas <br /> 
+FISK | Jaciara - MT <br />
+2002 - 2013<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
  ### Programação
 * Introdução ao Desenvolvimento de Softwa (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
