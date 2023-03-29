@@ -110,7 +110,7 @@ FISK | Jaciara - MT <br />
 * Marketing (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 ### Informática
 * Excel | Báscio, Intermediário e Avançado (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf)) 
-* Word | Báscio, Intermediário e Avançado (Alura / [Certificação](Certificados/Informática/Adobe Illustrator/ALURA - Adobe Illustrator.pdf))
+* Word | Báscio, Intermediário e Avançado (Alura / [Certificação](Certificados/Idiomas/Alura_Línguas_Inglês_para_Devs.pdf))
 * SAP (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Adobe Phoshop (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Adobe Illustrator (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
