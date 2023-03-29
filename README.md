@@ -150,7 +150,7 @@ FISK | Jaciara - MT <br />
   * Criatividade: Potencialize a partir das suas motivações | Alura | 8h
   * Criatividade e Adequação: Aprendendo e aprimorando um processo criativo | Alura | 6h
   * Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho | Alura | 6h
-  * Curiosidade, persistência e resiliência: Da ideia à ação | 6h
+  * Curiosidade, persistência e resiliência: Da ideia à ação | Alura | 6h
 * Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
   * Scrum: Agilidade em seu projeto | Alura | 10h
   * Trabalhando em Equipes Ágeis | DIO | 3h
