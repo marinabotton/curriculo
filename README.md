@@ -1,6 +1,6 @@
 # Marina Botton Beck
 
-Desenvolvedora de Software Jr. | Back-end<br/>
+Desenvolvedora de Software Jr. | Back-end | Python<br/>
 
 🏠 Cuiabá / Mato Grosso <br/>
 ✉️ marinabottons@gmail.com
