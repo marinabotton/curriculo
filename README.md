@@ -196,13 +196,12 @@ FISK | Jaciara - MT <br />
   * Adobe Illustrator: Introdução ao desenho vetorial | Alura | 10h
 
 ## Projetos:
-### Python
-* [Jogo da Adivinhação](https://github.com/marinabotton/alura_jogo_adivinhacao.git)
-* [Jogo da Forca](https://github.com/marinabotton/alura_jogo_forca.git)
-
 ### JavaScript, HTML e CSS
 * [Jogo Pong](https://github.com/marinabotton/alura_jogo_pong.git)
-* [Jogo Freeway](https://github.com/marinabotton/alura_jogo_freeway.git)<br />
+* [Jogo Freeway](https://github.com/marinabotton/alura_jogo_freeway.git)
+### Python
+* [Jogo da Adivinhação](https://github.com/marinabotton/alura_jogo_adivinhacao.git)
+* [Jogo da Forca](https://github.com/marinabotton/alura_jogo_forca.git)<br />
 
 ## Contato:
 *  [Linkedin](https://www.linkedin.com/in/marinabotton/)<br />
