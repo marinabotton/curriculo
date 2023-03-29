@@ -3,7 +3,7 @@
 Dev. de Software Jr. | Back-end | Python<br/>
 
 🏠 Cuiabá / Mato Grosso <br/>
-✉️ marinabottons@gmail.com
+✉️ marinabotton@gmail.com
 
 Curiosa, em transição de carreira e em busca constante por conhecimento, decidi trilhar meu caminho na área da tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Vinda da área do Marketing, vivo buscando soluções criativas para deixar a vida menos complicada, procurando pensar fora da caixa. Além disso, sou uma pessoa analítica, resiliente, e sempre busco encontrar soluções para problemas de forma eficiente, e por essa razão, acredito que a programação é o meu lugar.
 
