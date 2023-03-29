@@ -143,7 +143,7 @@ FISK | Jaciara - MT <br />
   * Criatividade e Adequação: Aprendendo e aprimorando um processo criativo | Alura | 6h
   * Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho | Alura | 6h
   * Curiosidade, persistência e resiliência: Da ideia à ação | 6h
-* Metodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
+* Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
   * Scrum: Agilidade em seu projeto | Alura | 10h
   * Trabalhando em Equipes Ágeis | DIO | 3h
 * Ensino e Aprendizado ([Certificações](certificados/inovacao_gestao/ensino_aprendizado/))
@@ -180,9 +180,12 @@ FISK | Jaciara - MT <br />
   * Básico | Fundação Bradesco | 9h
   * Intermediário | Fundação Bradesco | 12h
   * Avançado | Fundação Bradesco | 8h
-* SAP (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
-* Adobe Phoshop (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
-* Adobe Illustrator (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
+* SAP ([Certificação](certificados/informatica/sap/))
+  * SAP: Entendendo suas características | Alura | 10h
+* Adobe Photoshop ([Certificação](certificados/informatica/adobe_photoshop/))
+  * Introdução ao Adobe Photoshop: Conceitos essenciais | Alura | 10h
+* Adobe Illustrator ([Certificação](certificados/informatica/adobe_illustrator/))
+  * Adobe Illustrator: Introdução ao desenho vetorial | Alura | 10h
 
 ## Projetos:
 ### Python
