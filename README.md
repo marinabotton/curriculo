@@ -100,7 +100,7 @@ Março de 2023<br />
 * Python (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf)) (FIAP / [Certification](certificates/courses/frontend/FrontEnd.pdf))
 * Git | GitHub (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Java (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
-### Inocação e Gestão
+### Inovação e Gestão
 * Criatividade (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Ensino e Aprendizado (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Liderança(Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
