@@ -125,10 +125,10 @@ FISK | Jaciara - MT <br />
   * Princípios de Desenvolvimento de Software - DIO | 14h
   * Arquitetura de Computadores: por trás de como seu programa funciona | Alura | 8h
 * Lógica da Programação ([Certificações](certificados/programacao/logica_programacao/))
-  * Algoritmos: Aprenda a Programar | FIAP | 80h
+  * Algoritmos: Aprenda a programar | FIAP | 80h
   * Lógica de Programação - FIAP | 20h
   * Lógica de Programação Essencial - DIO | 4h
-  * Lógica da Programação: Estruturas de Controle de Fluxo | Udemy | 1h
+  * Lógica da Programação: Estruturas de controle de fluxo | Udemy | 1h
   * Fundamento de Lógica de Programação | Fundação Bradesco | 15h
 * JavaScript, HTML e CSS ([Certificações](certificados/programacao/js_html_css/))
   * Lógica de Programação: Comece em lógica com o jogo Pong e JavaScript | Alura | 6h
@@ -150,7 +150,7 @@ FISK | Jaciara - MT <br />
   * Criatividade: Potencialize a partir das suas motivações | Alura | 8h
   * Criatividade e Adequação: Aprendendo e aprimorando um processo criativo | Alura | 6h
   * Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho | Alura | 6h
-  * Curiosidade, persistência e resiliência: Da ideia à ação | Alura | 6h
+  * Curiosidade, Persistência e Resiliência: Da ideia à ação | Alura | 6h
 * Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
   * Scrum: Agilidade em seu projeto | Alura | 10h
   * Trabalhando em Equipes Ágeis | DIO | 3h
