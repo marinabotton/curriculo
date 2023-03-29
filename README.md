@@ -17,7 +17,7 @@ Conclusão para Dezembro de 2024.
 Marketing - Centro Universitário Belas Artes de São Paulo <br/>
 Conclusão para Junho de 2023.
 
-[_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)<br />
+[_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
 
 
 Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
