@@ -130,7 +130,7 @@ FISK | Jaciara - MT <br />
   * Lógica de Programação Essencial - DIO | 4h
   * Lógica da Programação: Estruturas de Controle de Fluxo | Udemy | 1h
   * Fundamento de Lógica de Programação | Fundação Bradesco | 15h
-* JavaScript ([Certificações](certificados/programacao/js_html_css/))
+* JavaScript, HTML e CSS ([Certificações](certificados/programacao/js_html_css/))
   * Lógica de Programação: Comece em lógica com o jogo Pong e JavaScript | Alura | 6h
   * JavaScript e HTML: Desenvolva um jogo e pratique a lógica da programação | Alura | 16h
   * Devlinks: Minha primeira página web | Rocketseat | 5h
