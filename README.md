@@ -23,7 +23,7 @@ Conclusão para Junho de 2023.
 Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
 Concluído em Dezembro de 2013.
 
-## Habilidades
+## Solf Skills
 
   * Visão estratégica;
   * Criatividade;
@@ -31,6 +31,13 @@ Concluído em Dezembro de 2013.
   * Inteligência emocional;
   * Planejamento e organização;
   * Capacidade de adaptação.
+
+## Hard Skills
+
+  * Python;
+  * JavaScript;
+  * HTML;
+  * CSS.
 
 ## Experência Profissional
 
