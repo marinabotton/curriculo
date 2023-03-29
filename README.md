@@ -61,7 +61,7 @@ Analista de Marketing .
 * (Mar/2018 - Jun/2019) <br/>
 **Tua Rosa** - 
 Sócia-Proprietária.
-  * Administração de lojas virtuais, incluindo gestão de estoque, pedidos e entregas;<br/>
+  * Administração de loja virtual, incluindo gestão de estoque, pedidos e entregas;<br/>
   * Planejamento financeiro e estratégico, garantindo a eficiência da operação e maximização dos lucros;<br/>
   * Gerenciamento de projetos, incluindo habilidades em definir metas e prazos e monitorar o progresso;<br/>
   * Análise de dados e métricas para avaliação de desempenho da loja virtual e tomada de decisões estratégicas.<br/>
