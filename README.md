@@ -44,7 +44,7 @@ Concluído em Dezembro de 2013.
 * (Jun/2019 - Atualmente) <br/>
 **Freelance** - 
 Consultora de Marketing e Mídias.
-  * Comunicação para interagir com clientes e entender suas necessidades; <br/>
+  * Comunicação oral para interagir com clientes e entender suas necessidades; <br/>
   * Desenvolvimento de ideias criativas para campanhas; <br/>
   * Gerenciamento de projetos, incluindo definição de objetivos, prazos e recursos; <br/>
   * Redação para criação de textos persuasivos e engajadores em diferentes formatos; <br/>
