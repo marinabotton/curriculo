@@ -94,7 +94,7 @@ FISK | Jaciara - MT <br />
 2002 - 2013<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
  ### Programação
-* Introdução ao Desenvolvimento de Software (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
+* Introdução ao Desenvolvimento de Software (Alura / [Certificação](certificados/courses/frontend/FrontEnd.pdf))
 * Lógica da Programação (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * JavaScript (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Python (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf)) (FIAP / [Certification](certificates/courses/frontend/FrontEnd.pdf))
@@ -110,7 +110,7 @@ FISK | Jaciara - MT <br />
 * Marketing (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 ### Informática
 * Excel | Báscio, Intermediário e Avançado (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf)) 
-* Word | Báscio, Intermediário e Avançado (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
+* Word | Báscio, Intermediário e Avançado (Alura / [Certificação](Certificados/Informática/Adobe Illustrator/ALURA - Adobe Illustrator.pdf))
 * SAP (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Adobe Phoshop (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Adobe Illustrator (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
