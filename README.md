@@ -7,8 +7,6 @@ Dev. de Software Jr. | Back-end | Python<br/>
 
 Curiosa, em transição de carreira e em busca constante por conhecimento, decidi trilhar meu caminho na área da tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Vinda da área do Marketing, vivo buscando soluções criativas para deixar a vida menos complicada, procurando pensar fora da caixa. Além disso, sou uma pessoa analítica, resiliente, e sempre busco encontrar soluções para problemas de forma eficiente, e por essa razão, acredito que a programação é o meu lugar.
 
-
-
 ## Formação 
 
 Análise e Desenvolvimento de Sistemas - FIAP <br/>
@@ -24,6 +22,15 @@ Conclusão para Junho de 2023.
 
 Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
 Concluído em Dezembro de 2013.
+
+## Habilidades
+
+  * Visão estratégica;
+  * Criatividade;
+  * Assertividade;
+  * Inteligência emocional;
+  * Planejamento e organização;
+  * Capacidade de adaptação.
 
 ## Experência Profissional
 
