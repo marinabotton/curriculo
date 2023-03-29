@@ -94,7 +94,7 @@ FISK | Jaciara - MT <br />
 2002 - 2013<br />
 [Certificação](certificates/courses/frontend/FrontEnd.pdf)
  ### Programação
-* Introdução ao Desenvolvimento de Softwa (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
+* Introdução ao Desenvolvimento de Software (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Lógica da Programação (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * JavaScript (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf))
 * Python (Alura / [Certificação](certificates/courses/frontend/FrontEnd.pdf)) (FIAP / [Certification](certificates/courses/frontend/FrontEnd.pdf))
