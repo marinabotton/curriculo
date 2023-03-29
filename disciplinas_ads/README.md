@@ -1,1 +1,81 @@
 
+# Disciplinas
+
+#### Legenda
+* :heavy_check_mark:  Completo
+* :heavy_plus_sign:   Em Curso
+* :heavy_minus_sign:  Não Iniciado
+
+
+### Análise e Desenvolvimento de Sistemas - FIAP
+
+#### Obrigatórias:
+
+| Nome                                                                        | ANO|  Concluída?        |
+| --------------------------------------------------------------------------- |:-: | :----------------: |
+| Agile Software Design                                                       | 1  | :heavy_plus_sign:  |
+| Computational Thinking Using Python                                         | 1  | :heavy_plus_sign:  |
+| Responsive Web Development                                                  | 1  | :heavy_plus_sign:  |
+| Domain Driven Design                                                        | 1  | :heavy_minus_sign: |
+| AI & Chatbot                                                                | 1  | :heavy_minus_sign: |
+| Building Relational Database                                                | 1  | :heavy_minus_sign: |
+| Formação Social E Sustentabilidade                                          | 1  | :heavy_minus_sign: |
+| Database Application Development And Big Data                               | 2  | :heavy_minus_sign: |
+| Disruptive Architectures: AI & IOT                                          | 2  | :heavy_minus_sign: |
+| Enterprise Application Development                                          | 2  | :heavy_minus_sign: |
+| Enterprise Application Integration                                          | 2  | :heavy_minus_sign: |
+| Entrepreneurship Program                                                    | 2  | :heavy_minus_sign: |
+| Mobile Development                                                          | 2  | :heavy_minus_sign: |
+| Technology Governance                                                       | 2  | :heavy_minus_sign: |
+
+### Curso anual composto por fases:
+
+* **2023 (Em andamento)**
+
+|  Nº | Fase                                                                 |  Concluída?        |
+| :--:| -------------------------------------------------------------------- | :----------------: |
+|  1  | Development Environment                                              | :heavy_check_mark: |
+|  2  | Prototyping                                                          | :heavy_plus_sign:  |
+|  3  | ---------------------------                                          | :heavy_minus_sign: |
+|  4  | ---------------------------                                          | :heavy_minus_sign: |
+|  5  | ---------------------------                                          | :heavy_minus_sign: |
+|  6  | ---------------------------                                          | :heavy_minus_sign: |
+|  7  | ---------------------------                                          | :heavy_minus_sign: |
+|  8  | ---------------------------                                          | :heavy_minus_sign: |
+|  9  | ---------------------------                                          | :heavy_minus_sign: |
+|  10 | ---------------------------                                          | :heavy_minus_sign: |
+
+
+* **2024 (Não iniciada)**
+
+|  Nº | Fase                                                                 |  Concluída?        |
+| :--:| -------------------------------------------------------------------- | :----------------: |
+|  1  | ---------------------------                                          | :heavy_minus_sign: |
+|  2  | ---------------------------                                          | :heavy_minus_sign: |
+|  3  | ---------------------------                                          | :heavy_minus_sign: |
+|  4  | ---------------------------                                          | :heavy_minus_sign: |
+|  5  | ---------------------------                                          | :heavy_minus_sign: |
+|  6  | ---------------------------                                          | :heavy_minus_sign: |
+|  7  | ---------------------------                                          | :heavy_minus_sign: |
+|  8  | ---------------------------                                          | :heavy_minus_sign: |
+|  9  | ---------------------------                                          | :heavy_minus_sign: |
+|  10 | ---------------------------                                          | :heavy_minus_sign: |
+
+
+#### Cursos Não Obrigatórios:
+
+##### Nivelamento
+
+| Nome                                                                     | Horas|  Concluído?        |
+| ------------------------------------------------------------------------ |  :-: | :----------------: |
+| Matemática                                                               |  20h | :heavy_check_mark: |
+| Comunicação                                                              |  20h | :heavy_check_mark: |
+| Lógica da Programação                                                    |  20h | :heavy_check_mark: |
+
+##### Nano Courses
+
+| Nome                                                                     | Horas|  Concluído?        |
+| ------------------------------------------------------------------------ |  :-: | :----------------: |
+| Algoritmos: Aprender a programar                                         | 80h  | :heavy_check_mark: |
+| Python                                                                   | 80h  | :heavy_check_mark: |
+
