@@ -197,20 +197,15 @@ FISK | Jaciara - MT <br />
 
 ## Projetos:
 ### Python
-* [Projeto-1](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
-* [Projeto-2](https://github.com/willianayres/projects/tree/main/resta-um-console)
-* [Projeto-3](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
+* [Jogo da Adivinhação](https://github.com/marinabotton/alura_jogo_adivinhacao.git)
+* [Jogo da Forca](https://github.com/marinabotton/alura_jogo_forca.git)
 
 ### JavaScript, HTML e CSS
-* [Projeto-1](https://github.com/willianayres/projects/tree/main/snake)
-* [Projeto-2](https://www.shiftaw.com.br)
-* [Projeto-3](https://olimpicosoldas.com.br)
-* [Projeto-4](https://metalemetais.com.br)<br />
-
+* [Jogo Pong](https://github.com/marinabotton/alura_jogo_pong.git)
+* [Jogo Freeway](https://github.com/marinabotton/alura_jogo_freeway.git)<br />
 
 ## Contato:
 *  [Linkedin](https://www.linkedin.com/in/marinabotton/)<br />
-
 
 ### Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
