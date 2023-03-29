@@ -140,7 +140,7 @@ FISK | Jaciara - MT <br />
   * Python: Começando com a linguagem | Alura | 12h
   * Python: Avançando na linguagem | Alura | 12h
   * Python | FIAP | 80h
-* Git | GitHub ([Certificações](certificados/programacao/git_github/))
+* Git / GitHub ([Certificações](certificados/programacao/git_github/))
   * Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso | DIO | 2h
   * Introdução ao Git e GitHub - DIO | 3h
 * Java ([Certificação](certificados/programacao/java/))
