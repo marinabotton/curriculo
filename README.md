@@ -5,23 +5,19 @@ Dev. de Software Jr. | Back-end | Python<br/>
 🏠 Cuiabá / Mato Grosso <br/>
 ✉️ marinabotton@gmail.com
 
-Curiosa, em transição de carreira e em busca constante por conhecimento, decidi trilhar meu caminho na área da tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Vinda da área do Marketing, vivo buscando soluções criativas para deixar a vida menos complicada, procurando pensar fora da caixa. Além disso, sou uma pessoa analítica, resiliente, e sempre busco encontrar soluções para problemas de forma eficiente, e por essa razão, acredito que a programação é o meu lugar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curiosa, em *transição de carreira* e em busca constante por conhecimento, decidi trilhar meu caminho na área da tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Vinda da área do *Marketing*, vivo buscando soluções criativas para deixar a vida menos complicada, procurando pensar fora da caixa. Além disso, sou uma pessoa analítica, resiliente, e perseverante, por essas razões, acredito que na programação é o meu lugar.
 
 ## Formação 
 
-* Análise e Desenvolvimento de Sistemas - FIAP <br/>
+* <strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP <br/>
 Conclusão para Dezembro de 2024.
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
 
-* Marketing - Centro Universitário Belas Artes de São Paulo <br/>
+* <strong>Marketing</strong> - Centro Universitário Belas Artes de São Paulo <br/>
 Conclusão para Junho de 2023.
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
-
-
-* Escola Particular E.I.E.F.E.M. Albert Einstein - Ensino Médio. <br/>
-Concluído em Dezembro de 2013.
 
 ## Solf Skills
 
