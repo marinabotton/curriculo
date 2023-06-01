@@ -1,21 +1,32 @@
 # Marina Botton Beck
 
-Dev. de Software Jr. | Back-end | Python<br/>
+Dev. de Software Jr. / Estágio TI <br>
+Java | Python | JavaScript | HTML | CSS | SQL <br>
 
-🏠 Cuiabá / Mato Grosso <br/>
-✉️ marinabotton@gmail.com
+🏠 Cuiabá, Mato Grosso, Brasil <br>
+📧 marinabotton@gmail.com <br>
+📱 +55 66 9 9974-8085 ([WhatsApp](https://wa.me/5566999748085)) <br>
+🔗 [Linkedin](https://www.linkedin.com/in/marinabotton/): in/marinabotton
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curiosa, em *transição de carreira* e em busca constante por conhecimento, decidi trilhar meu caminho na área da tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Vinda da área do *Marketing*, vivo buscando soluções criativas para deixar a vida menos complicada, procurando pensar fora da caixa. Além disso, sou uma pessoa analítica, resiliente, e perseverante, por essas razões, acredito que na programação é o meu lugar.
+## Sobre mim
 
-## Formação 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curiosa, em transição de carreira e em busca constante por conhecimento, desde cedo tive na tecnologia um hobby que despertava meu interesse de forma incansável. Então, decidi trilhar meu caminho nesse campo, onde me encontro e continuo me encontrando a cada passo dessa jornada!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anteriormente vinda da área do Marketing, sou uma pessoa que está sempre em busca de soluções criativas para simplificar a vida. Minha mente analítica me impulsiona a agir de forma proativa e resiliente, sempre procura analisar e encontrar as melhores soluções para os problemas de maneira eficiente. É por essa razão que acredito que a programação é o meu lugar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ao mergulhar nesse mundo tech, como profissão, desenvolvi uma paixão ainda maior! Através da programação, posso usar minha criatividade para desenvolver soluções inovadoras e impactantes. Cada linha de código que escrevo é um convite para explorar novas possibilidades e transformar ideias em realidade! Estou ansiosa para continuar aprendendo, descobrindo e expandindo meus conhecimentos!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Além disso, estou determinada a me tornar uma profissional de tecnologia competente e bem-sucedida. E a cada obstáculo superado é uma oportunidade de crescimento e de aprimorar minhas habilidades. Sinto-me privilegiada por ter encontrado o meu lugar, um ambiente onde posso explorar meu potencial e contribuir para a construção de um futuro digital emocionante!
+
+## Formação Acadêmica
 
 * <strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP <br/>
-Conclusão para Dezembro de 2024.
+Cursando 1º Ano | Início: Jan/2023 | Conclusão: Dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
 
 * <strong>Marketing</strong> - Centro Universitário Belas Artes de São Paulo <br/>
-Conclusão para Junho de 2023.
+Cursando 4º Semestre | Início: Jul/2021 | Conclusão: Jun/2023
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
 
@@ -30,15 +41,17 @@ Conclusão para Junho de 2023.
 
 ## Hard Skills
 
-  * Python;
-  * JavaScript;
-  * HTML;
-  * CSS.
+  * Conhecimentos em Lógica de Programação;
+  * Conhecimentos em Linguagens Python, Java, JavaScript, HTML5 e CSS3;
+  * Conhecimentos em Git e GitHub;
+  * Conhecimentos em SQL;
+  * Conhecimentos em Sistemas Operacionais Windows, MacOS e Linux;
+  * Conhecimentos em Microsofr 365 (Work, Excel, Power Point, etc).
 
 ## Experência Profissional
 
 * (Jun/2019 - Atualmente) <br/>
-**Freelance** - 
+**Autônoma** - 
 Consultora de Marketing e Mídias.
   * Comunicação oral para interagir com clientes e entender suas necessidades; <br/>
   * Desenvolvimento de ideias criativas para campanhas; <br/>
@@ -47,7 +60,7 @@ Consultora de Marketing e Mídias.
   * Monitoramento e análise de métricas para avaliar resultados. <br/>
 
 * (Jan/2022 - Jun/2022) <br/>
-***Solar – Coca Cola** - 
+**Solar – Coca Cola** - 
 Analista de Marketing .
   * Gestão de agências de publicidade e fornecedores;<br/>
   * Gerenciamento de projetos e prazos, garantindo que as campanhas e eventos sejam entregues dentro do prazo e orçamento;<br/>
@@ -95,23 +108,15 @@ Estágio.
   * Comunicação oral e escrita para interagir com juízes, advogados e outros profissionais do meio jurídico;<br/>
   * Gerenciamento de tempo e organização, garantindo que as tarefas sejam cumpridas dentro dos prazos estabelecidos.<br/>
   
-## Cursos Realizados:
-### Idiomas
-Inglês:
-* Inglês para Dev | 76h<br />
-Alura | Online<br />
-Março de 2023<br />
-[Certificação](certificados/idiomas/Alura_Línguas_Inglês_para_Devs.pdf)
+## Idioma
+Inglês - Avançado:
+* Curso Online (Inglês para Dev) | Alura | Mar/2023 [76h] ([Certificação](certificados/idiomas/Alura_Línguas_Inglês_para_Devs.pdf))
 
-* Intercâmbio<br />
-ILAC – International Language Academy | Toronto-ON (Canadá)<br />
-Dez/2015 à Jan/2016 (3-week course)<br />
-[Certificação](certificados/idiomas/ILAC_Intercâmbio.pdf)
+* Intercâmbio em Toronto, Canadá | ILAC – International Language Academy | Dez/2015 à Jan/2016 [3-Week Course] ([Certificação](certificados/idiomas/ILAC_Intercâmbio.pdf))
 
-* Curso de Idiomas <br /> 
-FISK | Jaciara - MT <br />
-2002 - 2013<br />
-[Certificação](certificados/idiomas/FISK_Curso_Completo.pdf)
+* Curso de Idiomas | FISK | 2002 - 2013 [Concluso] ([Certificação](certificados/idiomas/FISK_Curso_Completo.pdf))
+
+## Cursos Realizados
 ### Programação
 * Introdução ao Desenvolvimento de Software ([Certificações](certificados/programacao/intro_dev_software/))
   * Introdução à Programação - EBAC | 20h
@@ -120,61 +125,92 @@ FISK | Jaciara - MT <br />
   * Introdução ao Desenvolvimento Moderno de Software | DIO | 2h
   * Princípios de Desenvolvimento de Software - DIO | 14h
   * Arquitetura de Computadores: por trás de como seu programa funciona | Alura | 8h
-* Lógica da Programação ([Certificações](certificados/programacao/logica_programacao/))
   * Algoritmos: Aprenda a programar | FIAP | 80h
+  
+* Lógica da Programação ([Certificações](certificados/programacao/logica_programacao/))
+  * Fundamento de Lógica de Programação | Fundação Bradesco | 15h
   * Lógica de Programação - FIAP | 20h
   * Lógica de Programação Essencial - DIO | 4h
-  * Lógica da Programação: Estruturas de controle de fluxo | Udemy | 1h
-  * Fundamento de Lógica de Programação | Fundação Bradesco | 15h
-* JavaScript, HTML e CSS ([Certificações](certificados/programacao/js_html_css/))
   * Lógica de Programação: Comece em lógica com o jogo Pong e JavaScript | Alura | 6h
+  * Lógica de Programação: Laços e listas com JavaScript | Alura | 4h
+  * Lógica da Programação: Estruturas de controle de fluxo | Udemy | 1h
+  
+* JavaScript, HTML e CSS ([Certificações](certificados/programacao/js_html_css/))
   * JavaScript e HTML: Desenvolva um jogo e pratique a lógica da programação | Alura | 16h
-  * Devlinks: Minha primeira página web | Rocketseat | 5h
+  * JavaScript e HTML: Pratique lógica com desenhos, animações e um jogo | Alura | 10h
   * HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags | Alura | 8h
   * HTML e CSS: Classes, posicionamento e Flexbox | Alura | 8h
+  * HTML e CSS: Cabeçalho, footer e variáveis CSS | Alura | 6h
+  * HTML5 e CSS3 Parte 1: Crie uma página web | Alura | 8h
+  * HTML5 e CSS3 Parte 2: Posicionamento, listas e navegação | Alura | 8h
+  * HTML5 e CSS3 Parte 3: Trabalhando com formulários e tabelas | Alura | 8h
+  * HTML5 e CSS3 Parte 4: Avançando em CSS | Alura | 8h
+  * JavaScript para Web: Crie páginas dinâmicas | Alura | 10h
+
 * Python ([Certificações](certificados/programacao/python/))
   * Python: Começando com a linguagem | Alura | 12h
   * Python: Avançando na linguagem | Alura | 12h
   * Python | FIAP | 80h
-* Git / GitHub ([Certificações](certificados/programacao/git_github/))
-  * Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso | DIO | 2h
-  * Introdução ao Git e GitHub - DIO | 3h
+ 
 * Java ([Certificação](certificados/programacao/java/))
-   * Java Xpert (Full Stack Development) | Fiap Shift | 136h
+  * Java Xpert:Full Stack Development | Fiap Shift | 136h
+
+* Git / GitHub ([Certificações](certificados/programacao/git_github/))
+  * Introdução ao Git e ao GitGub | Dio | 3h
+  * Git e GitGub: Repositório, commit e vesões | Alura | 8h
+  * Git e GitGub: Controle e compartilhe seu código | Alura | 6h
+
+* Sistemas Operacionais e TI ([Certificações](certificados/programacao/git_github/))
+  * Gestão de Infraestrutura de TI | FIAP | 20h
+  * Linux I: Conhecendo e utilizando o terminal | Alura | 4h
+
+* Outros:
+  * VS Code: Aprendendo dicas e truques | Alura | Mar/2023 (1h)
+   
 ### Inovação e Gestão
+* Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
+  * Scrum: Agilidade em seu projeto | Alura | 10h
+  * Trabalhando em Equipes Ágeis | DIO | 3h
+
 * Criatividade ([Certificações](certificados/inovacao_gestao/criatividade/))
   * Criatividade: Potencialize a partir das suas motivações | Alura | 8h
   * Criatividade e Adequação: Aprendendo e aprimorando um processo criativo | Alura | 6h
   * Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho | Alura | 6h
   * Curiosidade, Persistência e Resiliência: Da ideia à ação | Alura | 6h
-* Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
-  * Scrum: Agilidade em seu projeto | Alura | 10h
-  * Trabalhando em Equipes Ágeis | DIO | 3h
-* Ensino e Aprendizado ([Certificações](certificados/inovacao_gestao/ensino_aprendizado/))
-  * Aprender a Aprender: Técnicas para seu autodesenvolvimento | Alura | 8h
-  * Matemática | FIAP | 20h
-  * Introdução à Administração | Fund. Bradesco | 12h
+  
 * Comunicação ([Certificações](certificados/inovacao_gestao/comunicacao/))
+  * Comunicação | FIAP | 20h
   * Comunicação: Como se expressar e ser compreendido | Alura | 8h
   * Escrita Criativa | BA | 40h
   * Produção de Textos | BA | 40h
+  
 * Liderança ([Certificações](certificados/inovacao_gestao/lideranca/))
   * Primeira Liderança: Aprendendo sobre a missão e propósito de liderar pessoas | Alura | 6h
   * Liderança: Prática e gestão de melhorias | Alura | 6h
-* Marketing Pessoal ([Certificações](certificados/inovacao_gestao/marketing_pessoal/))
-  * Networking: Como criar uma rede de contatos profissional | Linkedin Learning | 1h
-  * Desenvolvimento de Carreira: A demanda do mercado | Alura | 10h
-  * Desenvolvimento de Carreira: Como alcançar a posição desejada | Alura | 8h
-  * Propósito Profissional: Seja protagonista da sua carreira | Alura | 8h
-  * Transição de Carreira: Um guia para a área da tecnologia | Alura | 8h
+  
+* Desenvolvimento Pessoal ([Certificações](certificados/inovacao_gestao/marketing_pessoal/))
   * Storytelling: Visão de negócios e desenvolvimento pessoal | Alura | 8h
-  * Sprint Processos Seletivos em Tech | PrograMaria | 13h
+  * Aprender a Aprender: Técnicas para seu autodesenvolvimento | Alura | 8h
+  * Foco: Trazendo mais resultado para o dia a dia | Alura | 10h
+  * Hábitos: Da produtividade às metas pessoais | Alura | 8h
+ 
 * Marketing ([Certificações](certificados/inovacao_gestao/marketing/))
+  * Marketing Digital: Análise de métricas | Alura | 8h
+  * Marketing Digital: Explorando os conceitos | Alura | 8h
+  * Branding: Criando uma marca forte | Alura | 6h
+  * Instagram para Empresas: Estratégia e planejamento | Alura | 8h
+  * Marketing Digital: Explorando os conceitos | Alura | 12h
+  * Mídias Sociais: Estratégias para engajar o público | Alura | 8h
+  * Marketing de Conteúdo | Rock University | 4h
+  * Redes Sociais: Conceitos e Organização | FGV Online | 5h
   * A Internet e os Negócios | FGV Online | 5h
-  * Redes Sociais: Conceitos e organização | FGV Online | 5h
+  * Mídias Sociais: Estratégias para engajar o público | Alura | 6h
   * Marketing Digital: Fundamentos para seu planejamento on-line | Alura | 12h
-  * Mídias Sociais: Estratégias para engajar o público | Alura | 8h
-  * Marketing de Conteúdo | Rock Content | 4h
+
+* Outros ([Certificações](certificados/inovacao_gestao/ensino_aprendizado/))
+  * Introdução à Administração | Fund. Bradesco | 12h
+  * Matemática | FIAP | 20h
+
 ### Informática
 * Microsoft Excel 2016 ([Certificações](certificados/informatica/microsoft_excel/)) 
   * Básico | Fundação Bradesco | 15h
@@ -193,14 +229,21 @@ FISK | Jaciara - MT <br />
 
 ## Projetos:
 ### JavaScript, HTML e CSS
-* [Jogo Pong](https://github.com/marinabotton/alura_jogo_pong.git)
-* [Jogo Freeway](https://github.com/marinabotton/alura_jogo_freeway.git)
-### Python
-* [Jogo da Adivinhação](https://github.com/marinabotton/alura_jogo_adivinhacao.git)
-* [Jogo da Forca](https://github.com/marinabotton/alura_jogo_forca.git)<br />
+* Decodificador de Textos | Challenge do Programa ONE (Oracle Next Education) | Oracle + Alura <br>
+[Projeto no GitHub](https://github.com/marinabotton/challenge-one-alura-decodificador-de-texto.git) e [GitHub Pages](https://marinabotton.github.io/challenge-one-alura-decodificador-de-texto)
 
-## Contato:
-*  [Linkedin](https://www.linkedin.com/in/marinabotton/)<br />
+* Jogo Pong | Curso de Lógica de Programação: Comece em Lógica com o Jogo Pong e JavaScipt | Alura <br>
+[Projeto no GitHub](https://github.com/marinabotton/alura_jogo_pong.git) <br>
+
+* Jogo Freeway | Curso de Lógica de Programação: Laços e Listas com JavaScript | Alura <br>
+[Projeto no GitHub](https://github.com/marinabotton/alura_jogo_freeway.git)
+
+### Python
+* Jogo da Adivinhação | Curso de Python: Começando com a Linguagem | Alura <br>
+[Projeto no GitHub](https://github.com/marinabotton/alura_jogo_adivinhacao.git)
+
+* Jogo da Forca | Curso de Python: Avançando na Linguagem | Alura <br>
+[Projeto no GitHub](https://github.com/marinabotton/alura_jogo_forca.git)
 
 ### Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
