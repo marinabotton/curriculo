@@ -30,7 +30,7 @@
 
 ### Curso anual composto por fases:
 
-* **2023 (Em andamento)**
+* **2023 (Em Curso)**
 
 |  Nº | Fase                                                                 |  Concluída?        |
 | :--:| -------------------------------------------------------------------- | :----------------: |
@@ -46,7 +46,7 @@
 |  10 | ---------------------------                                          | :heavy_minus_sign: |
 
 
-* **2024 (Não iniciada)**
+* **2024 (Não Iniciado)**
 
 |  Nº | Fase                                                                 |  Concluída?        |
 | :--:| -------------------------------------------------------------------- | :----------------: |
@@ -76,7 +76,7 @@
 
 | Nome                                                                     | Horas|  Concluído?        |
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
-| Algoritmos: Aprender a programar                                         | 80h  | :heavy_check_mark: |
+| Algoritmos: Aprender a Programar                                         | 80h  | :heavy_check_mark: |
 | Python                                                                   | 80h  | :heavy_check_mark: |
 | Gestão de Infraestrutura de TI                                           | 80h  | :heavy_check_mark: |
 
