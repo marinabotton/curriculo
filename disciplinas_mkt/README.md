@@ -7,8 +7,8 @@
 * :heavy_minus_sign:  Não Iniciado
 
 ### Marketing - BELAS ARTES
-* Início: 2021/2
-* Conclusão para: 2023/1
+* Início: Jul/2022
+* Conclusão para: Jun/2023
 
 ### Curso Semestral:
 
