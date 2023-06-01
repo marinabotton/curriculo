@@ -16,9 +16,9 @@
 | Agile Software Design                                                       | 1  | :heavy_plus_sign:  |
 | Computational Thinking Using Python                                         | 1  | :heavy_plus_sign:  |
 | Responsive Web Development                                                  | 1  | :heavy_plus_sign:  |
-| Domain Driven Design                                                        | 1  | :heavy_minus_sign: |
+| Building Relational Database                                                | 1  | :heavy_plus_sign:  |
 | AI & Chatbot                                                                | 1  | :heavy_minus_sign: |
-| Building Relational Database                                                | 1  | :heavy_minus_sign: |
+| Domain Driven Design                                                        | 1  | :heavy_minus_sign: |
 | Formação Social E Sustentabilidade                                          | 1  | :heavy_minus_sign: |
 | Database Application Development And Big Data                               | 2  | :heavy_minus_sign: |
 | Disruptive Architectures: AI & IOT                                          | 2  | :heavy_minus_sign: |
@@ -35,9 +35,9 @@
 |  Nº | Fase                                                                 |  Concluída?        |
 | :--:| -------------------------------------------------------------------- | :----------------: |
 |  1  | Development Environment                                              | :heavy_check_mark: |
-|  2  | Prototyping                                                          | :heavy_plus_sign:  |
-|  3  | ---------------------------                                          | :heavy_minus_sign: |
-|  4  | ---------------------------                                          | :heavy_minus_sign: |
+|  2  | Prototyping                                                          | :heavy_check_mark: |
+|  3  | Modeling                                                             | :heavy_check_mark: |
+|  4  | View                                                                 | :heavy_plus_sign:  |
 |  5  | ---------------------------                                          | :heavy_minus_sign: |
 |  6  | ---------------------------                                          | :heavy_minus_sign: |
 |  7  | ---------------------------                                          | :heavy_minus_sign: |
@@ -78,4 +78,5 @@
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
 | Algoritmos: Aprender a programar                                         | 80h  | :heavy_check_mark: |
 | Python                                                                   | 80h  | :heavy_check_mark: |
+| Gestão de Infraestrutura de TI                                           | 80h  | :heavy_check_mark: |
 
