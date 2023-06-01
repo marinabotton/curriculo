@@ -7,7 +7,9 @@
 * :heavy_minus_sign:  Não Iniciado
 
 
-### Análise e Desenvolvimento de Sistemas - FIAP
+## Análise e Desenvolvimento de Sistemas - FIAP
+* Início: Jan/2023
+* Conclusão para: Dez/2024
 
 #### Obrigatórias:
 
@@ -28,7 +30,9 @@
 | Mobile Development                                                          | 2  | :heavy_minus_sign: |
 | Technology Governance                                                       | 2  | :heavy_minus_sign: |
 
-### Curso anual composto por fases:
+<br>
+
+### Curso Anual Composto por Fases:
 
 * **2023 (Em Curso)**
 
@@ -46,6 +50,8 @@
 |  10 | ---------------------------                                          | :heavy_minus_sign: |
 
 
+<br>
+
 * **2024 (Não Iniciado)**
 
 |  Nº | Fase                                                                 |  Concluída?        |
@@ -62,9 +68,11 @@
 |  10 | ---------------------------                                          | :heavy_minus_sign: |
 
 
-#### Cursos Não Obrigatórios:
+<br>
 
-##### Nivelamento
+### Cursos Não Obrigatórios:
+
+#### Nivelamento
 
 | Nome                                                                     | Horas|  Concluído?        |
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
@@ -72,7 +80,7 @@
 | Comunicação                                                              |  20h | :heavy_check_mark: |
 | Lógica da Programação                                                    |  20h | :heavy_check_mark: |
 
-##### Nano Courses
+#### Nano Courses
 
 | Nome                                                                     | Horas|  Concluído?        |
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
