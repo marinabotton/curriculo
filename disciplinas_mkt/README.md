@@ -10,8 +10,6 @@
 * Início: Jul/2022
 * Conclusão para: Jun/2023
 
-* Coeficiente de Rendimento: 9,50
-
 ### Curso Semestral:
 
 * **2021/2 (Completo)**
