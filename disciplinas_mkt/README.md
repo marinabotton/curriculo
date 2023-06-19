@@ -10,7 +10,7 @@
 * Início: Jul/2022
 * Conclusão para: Jun/2023
 
-### Curso Semestral:
+### Modalidade Semestral:
 
 * **2021/2 (Completo)**
 
