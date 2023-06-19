@@ -14,7 +14,7 @@
 
 * **2021/2 (Completo)**
 
-| Nome                                                                        |  Semestre |  Concluída?        |    Nota    |
+| Disciplinas                                                                 |  Semestre |  Concluída?        |    Nota    |
 | --------------------------------------------------------------------------- |     :-:   | :----------------: |  :------:  |   
 | Análise de Dados                                                            |      1    | :heavy_check_mark: |    10,00   |
 | Antropologia Cultural                                                       |      1    | :heavy_check_mark: |     9,36   |                                         
@@ -31,7 +31,7 @@
 
 * **2022/1 (Completo)**
 
-| Nome                                                                        |  Semestre |  Concluída?        |    Nota    |
+| Disciplinas                                                                 |  Semestre |  Concluída?        |    Nota    |
 | --------------------------------------------------------------------------- |     :-:   | :----------------: |  :------:  |
 | Branding                                                                    |      2    | :heavy_check_mark: |    10,00   |
 | Comportamento de Compra e Consumo                                           |      2    | :heavy_check_mark: |     9,20   |
@@ -48,7 +48,7 @@
 
 * **2022/2 (Completo)**
 
-| Nome                                                                        |  Semestre |  Concluída?        |    Nota    |
+| Disciplinas                                                                 |  Semestre |  Concluída?        |    Nota    |
 | --------------------------------------------------------------------------- |     :-:   | :----------------: |  :------:  |
 | Ativos Intelectuais, Tecnologia e Sociedade                                 |      3    | :heavy_check_mark: |     9,80   |
 | Deisgn Thinking                                                             |      3    | :heavy_check_mark: |     9,60   |
@@ -65,7 +65,7 @@
 
 * **2023/1 (Completo)**
 
-| Nome                                                                        |  Semestre |  Concluída?        |    Nota    |
+| Disciplinas                                                                 |  Semestre |  Concluída?        |    Nota    |
 | --------------------------------------------------------------------------- |     :-:   | :----------------: |  :------:  |
 | Atividades Complementares                                                   |      4    | :heavy_check_mark: |     120h   |
 | Gestão de Criatividade                                                      |      4    | :heavy_check_mark: |     9,60   |
