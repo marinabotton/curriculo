@@ -11,9 +11,9 @@
 * Início: Jan/2023
 * Conclusão para: Dez/2024
 
-### Modalidade Anual - 1º Ano:
+### Modalidade Anual:
 
-* **2023 (Em Curso)**
+* **1º Ano - 2023 (Em Curso)**
 
 | Disciplinas                                                                 | ANO|  Concluída?        |
 | --------------------------------------------------------------------------- |:-: | :----------------: |
@@ -27,7 +27,7 @@
 
 ### Graduação composta por Fases:
 
-* **2023 (Em Curso)**
+* **1º Ano - 2023 (Em Curso)**
 
 |  Nº | Fase                                                                 |  Concluída?        |
 | :--:| -------------------------------------------------------------------- | :----------------: |
@@ -42,9 +42,9 @@
 
 <br>
 
-### Modalidade Anual - 2º Ano:
+### Modalidade Anual:
 
-* **2024 (Não Iniciado)**
+* **2º Ano - 2024 (Não Iniciado)**
 
 | Disciplinas                                                                 | ANO|  Concluída?        |
 | --------------------------------------------------------------------------- |:-: | :----------------: |
@@ -58,7 +58,7 @@
 
 ### Graduação composta por Fases:
 
-* **2024 (Não Iniciado)**
+* **2º Ano - 2024 (Não Iniciado)**
 
 |  Nº | Fase                                                                 |  Concluída?        |
 | :--:| -------------------------------------------------------------------- | :----------------: |
