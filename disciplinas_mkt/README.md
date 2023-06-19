@@ -6,7 +6,7 @@
 * :heavy_plus_sign:   Em Curso
 * :heavy_minus_sign:  Não Iniciado
 
-## Marketing - BELAS ARTES
+## Marketing - BELAS ARTES (Centro Universitário Belas Artes de São Paulo)
 * Início: Jul/2022
 * Conclusão para: Jun/2023
 
