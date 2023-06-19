@@ -11,9 +11,11 @@
 * Início: Jan/2023
 * Conclusão para: Dez/2024
 
-#### Obrigatórias:
+### Modalidade Anual - 1º Ano:
 
-| Nome                                                                        | ANO|  Concluída?        |
+* **2023 (Em Curso)**
+
+| Disciplinas                                                                 | ANO|  Concluída?        |
 | --------------------------------------------------------------------------- |:-: | :----------------: |
 | Agile Software Design                                                       | 1  | :heavy_plus_sign:  |
 | Computational Thinking Using Python                                         | 1  | :heavy_plus_sign:  |
@@ -22,17 +24,8 @@
 | AI & Chatbot                                                                | 1  | :heavy_minus_sign: |
 | Domain Driven Design                                                        | 1  | :heavy_minus_sign: |
 | Formação Social E Sustentabilidade                                          | 1  | :heavy_minus_sign: |
-| Database Application Development And Big Data                               | 2  | :heavy_minus_sign: |
-| Disruptive Architectures: AI & IOT                                          | 2  | :heavy_minus_sign: |
-| Enterprise Application Development                                          | 2  | :heavy_minus_sign: |
-| Enterprise Application Integration                                          | 2  | :heavy_minus_sign: |
-| Entrepreneurship Program                                                    | 2  | :heavy_minus_sign: |
-| Mobile Development                                                          | 2  | :heavy_minus_sign: |
-| Technology Governance                                                       | 2  | :heavy_minus_sign: |
 
-<br>
-
-### Curso Anual Composto por Fases:
+### Graduação composta por Fases:
 
 * **2023 (Em Curso)**
 
@@ -46,11 +39,24 @@
 |  6  | ---------------------------                                          | :heavy_minus_sign: |
 |  7  | ---------------------------                                          | :heavy_minus_sign: |
 |  8  | ---------------------------                                          | :heavy_minus_sign: |
-|  9  | ---------------------------                                          | :heavy_minus_sign: |
-|  10 | ---------------------------                                          | :heavy_minus_sign: |
-
 
 <br>
+
+### Modalidade Anual - 2º Ano:
+
+* **2024 (Não Iniciado)**
+
+| Disciplinas                                                                 | ANO|  Concluída?        |
+| --------------------------------------------------------------------------- |:-: | :----------------: |
+| Database Application Development And Big Data                               | 2  | :heavy_minus_sign: |
+| Disruptive Architectures: AI & IOT                                          | 2  | :heavy_minus_sign: |
+| Enterprise Application Development                                          | 2  | :heavy_minus_sign: |
+| Enterprise Application Integration                                          | 2  | :heavy_minus_sign: |
+| Entrepreneurship Program                                                    | 2  | :heavy_minus_sign: |
+| Mobile Development                                                          | 2  | :heavy_minus_sign: |
+| Technology Governance                                                       | 2  | :heavy_minus_sign: |
+
+### Graduação composta por Fases:
 
 * **2024 (Não Iniciado)**
 
@@ -64,27 +70,24 @@
 |  6  | ---------------------------                                          | :heavy_minus_sign: |
 |  7  | ---------------------------                                          | :heavy_minus_sign: |
 |  8  | ---------------------------                                          | :heavy_minus_sign: |
-|  9  | ---------------------------                                          | :heavy_minus_sign: |
-|  10 | ---------------------------                                          | :heavy_minus_sign: |
-
 
 <br>
 
-### Cursos Não Obrigatórios:
+### Cursos Extracurrículares:
 
-#### Nivelamento
+* #### Nivelamento
 
-| Nome                                                                     | Horas|  Concluído?        |
+| Certificação                                                             | Horas|  Concluído?        |
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
 | Matemática                                                               |  20h | :heavy_check_mark: |
 | Comunicação                                                              |  20h | :heavy_check_mark: |
 | Lógica da Programação                                                    |  20h | :heavy_check_mark: |
 
-#### Nano Courses
+* #### Nano Courses
 
-| Nome                                                                     | Horas|  Concluído?        |
+| Certificação                                                             | Horas|  Concluído?        |
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
 | Algoritmos: Aprender a Programar                                         | 80h  | :heavy_check_mark: |
 | Python                                                                   | 80h  | :heavy_check_mark: |
-| Gestão de Infraestrutura de TI                                           | 80h  | :heavy_check_mark: |
+| Gestão de Infraestrutura de TI                                           | 20h  | :heavy_check_mark: |
 
