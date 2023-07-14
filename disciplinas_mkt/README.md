@@ -8,7 +8,7 @@
 
 ## Marketing - BELAS ARTES (Centro Universitário Belas Artes de São Paulo)
 * Início: Jul/2021
-* Conclusão para: Jun/2023
+* Concluso: Jun/2023
 
 ### Modalidade Semestral:
 
