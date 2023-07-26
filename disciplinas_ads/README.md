@@ -34,7 +34,7 @@
 |  1  | Development Environment                                              | :heavy_check_mark: |
 |  2  | Prototyping                                                          | :heavy_check_mark: |
 |  3  | Modeling                                                             | :heavy_check_mark: |
-|  4  | View                                                                 | :heavy_plus_sign:  |
+|  4  | View                                                                 | :heavy_check_mark: |
 |  5  | ---------------------------                                          | :heavy_minus_sign: |
 |  6  | ---------------------------                                          | :heavy_minus_sign: |
 |  7  | ---------------------------                                          | :heavy_minus_sign: |
