@@ -35,10 +35,8 @@
 |  2  | Prototyping                                                          | :heavy_check_mark: |
 |  3  | Modeling                                                             | :heavy_check_mark: |
 |  4  | View                                                                 | :heavy_check_mark: |
-|  5  | ---------------------------                                          | :heavy_minus_sign: |
-|  6  | ---------------------------                                          | :heavy_minus_sign: |
-|  7  | ---------------------------                                          | :heavy_minus_sign: |
-|  8  | ---------------------------                                          | :heavy_minus_sign: |
+|  5  | OOP                                                                  | :heavy_minus_sign: |
+|  6  | Model                                                                | :heavy_minus_sign: |
 
 <br>
 
@@ -68,8 +66,6 @@
 |  4  | ---------------------------                                          | :heavy_minus_sign: |
 |  5  | ---------------------------                                          | :heavy_minus_sign: |
 |  6  | ---------------------------                                          | :heavy_minus_sign: |
-|  7  | ---------------------------                                          | :heavy_minus_sign: |
-|  8  | ---------------------------                                          | :heavy_minus_sign: |
 
 <br>
 
@@ -89,5 +85,6 @@
 | ------------------------------------------------------------------------ |  :-: | :----------------: |
 | Algoritmos: Aprender a Programar                                         | 80h  | :heavy_check_mark: |
 | Python                                                                   | 80h  | :heavy_check_mark: |
+| Responsive Web Development                                               | 80h  | :heavy_check_mark: |
+| Estruturas de Computadores                                               | 40h  | :heavy_check_mark: |
 | Gestão de Infraestrutura de TI                                           | 20h  | :heavy_check_mark: |
-
