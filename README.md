@@ -1,11 +1,12 @@
 # Marina Botton Beck
 
-Dev. de Software Jr. / Estágio TI <br>
-Java | Python | JavaScript | HTML | CSS | SQL <br>
+Desenvolvedora de Software <br>
+Front-End | JavaScript | HTML5 | CSS3 | Python | Java <br>
 
 🏠 Cuiabá, Mato Grosso, Brasil <br>
 📧 marinabotton@gmail.com <br>
-📱 +55 66 9 9974-8085 ([WhatsApp](https://wa.me/5566999748085)) <br>
+📱 +55 66 9 9974-8085 ([WhatsApp](https://wa.me/5566999748085)) ou <br>
+📱 +55 65 9 9324-0282 ([WhatsApp](https://wa.me/5565993240282)) <br>
 🔗 [Linkedin](https://www.linkedin.com/in/marinabotton/): in/marinabotton
 
 ## Sobre mim
@@ -21,12 +22,12 @@ Java | Python | JavaScript | HTML | CSS | SQL <br>
 ## Formação Acadêmica
 
 * <strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP <br/>
-Cursando 1º Ano | Início: Jan/2023 | Conclusão: Dez/2024
+2º Semestre | Início: Jan/2023 | Conclusão: Dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
 
 * <strong>Marketing</strong> - Centro Universitário Belas Artes de São Paulo <br/>
-Cursando 4º Semestre | Início: Jul/2021 | Conclusão: Jun/2023
+Graduada | Início: Jul/2021 | Conclusão: Jun/2023
 
 [_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
 
